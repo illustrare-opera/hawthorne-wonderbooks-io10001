@@ -1,0 +1,5 @@
+*~
+*.bak
+*.djvu
+*.pdf
+archive/**
